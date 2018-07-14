@@ -39,5 +39,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Autorisée l&apos;accés à l&apos;appreil photo.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Autorisée l&apos;accés à la librairie.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Autorisée l&apos;appreil photo à accéder au meilleur momemnt.</string>
 </dict>
 </plist>
